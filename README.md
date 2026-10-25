@@ -741,7 +741,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Advanced курс по MLOps: Kubernetes, Kafka, CI/CD](https://pymagic.ru/hard-mlops)
 - [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 - [Awesome MLOps (Tools)](https://github.com/kelvins/awesome-mlops)
-- [DTU MLOps Course](https://github.com/SkafteNicki/dtu_mlops)
+- [DTU MLOps Course](https://github.com/SkafteNicki/dtu_mlops) <!--- comment -->
 - [Evidently](https://github.com/evidentlyai/evidently)
 - [Introduction to Machine Learning Systems (Vijay Janapa Reddi)](https://mlsysbook.ai/vol1/)
 - [Lean Data Science (LeanDS) — вводный курс](https://ods.ai/tracks/leands-course)
