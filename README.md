@@ -776,6 +776,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Mastering PyTorch by Ashish Ranjan Jha](https://www.oreilly.com/library/view/mastering-pytorch/9781801074308/?_gl=1*10hryeg*_ga*MTc1MTUyNjI1OS4xNzI0MjMyMzk4*_ga_092EL089CH*MTcyNDIzMjM5OC4xLjEuMTcyNDIzMjQyMy4zNS4wLjA)
 - [The Tensor Cookbook by Thomas Dybdahl Ahle](https://tensorcookbook.com) <!--- comment -->
 - [Deep Learning and Computational Physics](https://arxiv.org/pdf/2301.00942v1) <!--- comment -->
+- [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory by Arnulf Jentzen, Benno Kuckuck and Philippe von Wurstemberger](https://arxiv.org/abs/2310.20360)
 - [Виктор Владимирович Китов. Глубокое обучение](https://deepmachinelearning.ru/docs/Neural-networks/book-title)
 - [Grokking Deep Learning — code repository](https://github.com/iamtrask/Grokking-Deep-Learning/blob/master/README.md)
 
