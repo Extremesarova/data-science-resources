@@ -1337,6 +1337,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Z Statistics by Justin Zeltzer](http://www.zstatistics.com/videos/)
 - [The Beginner's Guide to Statistical Analysis by Scribbr](https://www.scribbr.com/category/statistics/)
 - [Прикладная статистика. Репозиторий для линейки онлайн-курсов по статистике](https://github.com/FUlyankin/matstat-AB)
+- [Yet another matstat 2026 (Филипп Ульянкин)](https://www.youtube.com/playlist?list=PLNKXA-74YGLhyyjTIZcuBeuDKIUPqGPPj)
 - [Multivariate statistics](https://www.youtube.com/playlist?app=desktop&list=PLLTSM0eKjC2fZqeVFWBBBr8KSqnBIPMQD)
 - [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/) <!--- comment -->  
 - [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2024?tab=readme-ov-file) <!--- comment -->  
