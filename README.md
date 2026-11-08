@@ -524,7 +524,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 - [Learning Machine: An Interactive Book of Machine Learning](https://rentruewang.github.io/learning-machine/intro.html)
 - [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp)
 - [Probabilistic Machine Learning: Advanced Topics (Kevin Murphy)](https://probml.github.io/pml-book/book2)
-- [Probabilistic Machine Learning: An Introduction (Kevin Murphy)](https://probml.github.io/pml-book/book1.html)
+- [Probabilistic Machine Learning: An Introduction (Kevin Murphy)](https://probml.github.io/pml-book/book1.html) <!--- comment -->
 
 <!-- omit in toc -->
 ### Cheetsheets
