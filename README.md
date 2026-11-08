@@ -942,7 +942,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 - [Исчерпывающий гайд по опенсорсным языковым моделям](https://skillbox.ru/media/code/ischerpyvayushchiy-gayd-po-opensorsnym-yazykovym-modelyam/#stk-8)
 - [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index)
 - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
-- [LLM Visualization](https://bbycroft.net/llm)
+- [LLM Visualization](https://bbycroft.net/llm) <!--- comment -->
 - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
 - [The Annotated Transformer](https://github.com/harvardnlp/annotated-transformer/blob/master/AnnotatedTransformer.ipynb) + [Neural networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list)
