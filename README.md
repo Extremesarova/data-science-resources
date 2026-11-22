@@ -1121,7 +1121,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [A Gentle Introduction to Graph Neural Networks (Distill)](https://distill.pub/2021/gnn-intro/) <!--- comment -->
 - [An Introduction to Graph Theory by Darij Grinberg](https://arxiv.org/pdf/2308.04512)
 - [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)
-- [Understanding Convolutions on Graphs (Distill)](https://distill.pub/2021/understanding-gnns/)
+- [Understanding Convolutions on Graphs (Distill)](https://distill.pub/2021/understanding-gnns/) <!--- comment -->
 - [Курс по графам знаний (KG Course 2021, ODS.ai)](https://ods.ai/tracks/kgcourse2021)
 
 ## Reinforcement Learning
