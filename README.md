@@ -1289,7 +1289,7 @@ Every LLM is implemented from scratch with no abstractions and full control, mak
 - [Machine Learning System Design (Educative)](https://www.educative.io/courses/machine-learning-system-design)
 - [Machine Learning Systems Design: Case Studies](https://huyenchip.com/machine-learning-systems-design/case-studies.html#case-studies-bYrWS80)
 - [Stanford MLSys Seminars](https://youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
-- [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery)
+- [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery) <!--- comment -->
 
 ## Math
 
