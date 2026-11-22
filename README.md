@@ -541,7 +541,7 @@ Lazy Predict helps build a lot of basic models without much code and helps under
 ### Articles
 
 - [Anthology of Modern Machine Learning](https://github.com/dmarx/anthology-of-modern-ml)
-- [Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure](https://onlinelibrary.wiley.com/doi/10.1111/ecog.02881)
+- [Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure](https://onlinelibrary.wiley.com/doi/10.1111/ecog.02881) <!--- comment -->
 - [ML Papers of The Week by DAIR.AI](https://github.com/dair-ai/ML-Papers-of-the-Week)
 - [word2vec Parameter Learning Explained](https://arxiv.org/pdf/1411.2738.pdf)
 - [Ilya 30u30](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
